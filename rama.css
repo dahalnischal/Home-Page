@@ -1,0 +1,9 @@
+
+body{
+	background-color: lightpink;
+}
+@media screen and (min-width: 420px){
+	body{
+		background-color: lightblue;
+	}
+}
